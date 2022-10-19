@@ -1,0 +1,9 @@
+{
+	"name": "dftp",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "d081fd3e-9ea4-445c-a6b7-9733992b976c",
+		"tenantId": "50a68648-8a2a-489c-b745-643d4d86d1e3"
+	}
+}
